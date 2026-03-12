@@ -6,7 +6,7 @@ Best viewed on desktop.
 
 ## Live Site
 
-[put url here]
+(https://skycastweatherproject.netlify.app/)
 
 ## Pages
 
